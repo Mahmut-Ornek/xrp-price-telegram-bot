@@ -29,6 +29,8 @@ A simple Python automation script that periodically fetches the live XRP price f
 
 **CHAT_ID**=your_chat_id
 
+⚠️ Do not commit the `.env` file to GitHub.
+
 2. Install dependencies:
 ```bash
 pip install requests schedule python-dotenv
